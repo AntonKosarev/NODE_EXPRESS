@@ -1,1 +1,9 @@
-workfiles/
+workfiles
+.idea
+# Dependency directories
+node_modules
+
+# npm
+package-lock.json
+*.log
+*.gz
